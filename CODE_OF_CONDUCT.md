@@ -1,128 +1,99 @@
-# Contributor Covenant Code of Conduct
+# A Covenant for Conscious Community
 
-## Our Pledge
+## Our Aspiration
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+We gather as members, contributors, and companions on a shared journey. We commit to creating spaces where all beings—regardless of age, body, (dis)ability, ethnicity, gender identity, experience, background, or identity—can show up authentically and be welcomed.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+We recognize that we are interconnected. Our words and actions ripple outward, shaping the ecosystem we share. We aspire to contribute to a community rooted in:
 
-## Our Standards
+* **Genuine connection**—seeing and honoring the humanity in one another
+* **Collective healing**—understanding that harm often stems from unmet needs and unexamined pain
+* **Liberation**—dismantling systems and patterns that silence, diminish, or exclude
+* **Wisdom**—learning from mistakes and each other with humility and curiosity
+* **Care**—tending to the wellbeing of the whole, not just individuals
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+## What We Cultivate
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+In this space, we nurture:
 
-Examples of unacceptable behavior include:
+* **Presence and empathy**—showing up with genuine care and seeking to understand others' inner worlds
+* **Honest expression**—speaking our truth while remaining open to being moved by others' truth
+* **Differentiated perspectives**—recognizing that our varied experiences are gifts, not obstacles
+* **Collaborative repair**—when we cause harm, we take responsibility, listen, and work toward healing
+* **Accountability rooted in love**—holding ourselves and each other to our shared values because we care about the community
+* **Systemic awareness**—noticing how power, privilege, and inherited patterns shape our interactions
+* **Spaciousness for growth**—trusting that we are all becoming, and that mistakes are invitations to learn
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+## What Creates Separation
 
-## Enforcement Responsibilities
+We gently recognize that certain patterns create distance, diminish trust, and cause suffering:
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+* **Objectification**—treating anyone as less than fully human or using another's body/identity as a means to an end
+* **Dismissal**—attacking ideas or people, rather than engaging with curiosity; dismissing someone's reality or experience
+* **Intrusion into privacy**—sharing what was entrusted to us privately without consent; violating boundaries
+* **Coercion and control**—using power to silence, exclude, or dominate; abuse of any kind
+* **Patterns that harm**—behavior that reflects unexamined privilege, unconscious biases, or disconnection from the impact we have on others
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+When these patterns arise, we pause and ask: *What need is going unmet? What fear or wound is driving this? How can we respond with both firmness and compassion?*
 
-## Scope
+## Our Shared Responsibility
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+All of us hold the responsibility to steward this space. This includes:
 
-## Enforcement
+* **Community members**: noticing when separation is happening, speaking up with compassion, and taking accountability for our own impact
+* **Maintainers and leaders**: creating structures that prevent harm before it happens; responding to harm with wisdom, fairness, and a genuine commitment to both accountability and redemption
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-https://forms.gle/ngyEBuHGSFcRiYEWA.
-All complaints will be reviewed and investigated promptly and fairly.
+We recognize that those with more power in the community bear extra responsibility to use that power in service of liberation and healing.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+## Responding to Harm
 
-## Enforcement Guidelines
+When someone's behavior causes suffering in our community, we approach it as an opportunity for learning and repair—not punishment for its own sake.
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+**Our process:**
 
-### 1. Correction
+1. **Awareness** – A community member or leader notices behavior that causes harm or distress
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+2. **Dialogue** – We engage in honest conversation, seeking to understand:
+   - What happened?
+   - What impact did it have?
+   - What needs or fears were at play?
+   - What did the person who caused harm not understand or notice?
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+3. **Repair** – The person who caused harm works to:
+   - Genuinely understand the impact on others
+   - Take responsibility without defensiveness
+   - Make amends where possible
+   - Recommit to the community's values
 
-### 2. Warning
+4. **Integration** – We integrate the learning into how we move forward together, adjusting structures if needed
 
-**Community Impact**: A violation through a single incident or series
-of actions.
+5. **Boundaries** – If someone is repeatedly unwilling to engage in this process, or if harm is ongoing or severe, we may need to create distance (temporary or permanent) to protect the community. Even here, we act with as much clarity and compassion as we can offer.
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+## Scope and Witness
 
-### 3. Temporary Ban
+This covenant applies wherever our community gathers—in code reviews, issues, discussions, and all spaces bearing our name or values. It also applies when any of us is representing this community publicly.
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+We recognize that harm can be subtle or overt, individual or systemic. We commit to noticing both.
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+## Reporting and Support
 
-### 4. Permanent Ban
+If you experience harm or witness patterns that concern you, you can report them to our community leaders at https://forms.gle/ngyEBuHGSFcRiYEWA.
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+We commit to:
+* Receiving reports with genuine care and without defensiveness
+* Investigating promptly and thoroughly
+* Centering the safety and dignity of those most affected
+* Maintaining confidentiality and protecting reporters from retaliation
+* Moving toward repair and healing, not punishment
 
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+## A Final Reflection
 
-## Attribution
+We know that none of us are perfect. We all carry conditioning, wounds, and blind spots. We are all doing the best we can with the awareness we have. 
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+This covenant is not a weapon to wield against one another. It is a mirror we hold up together—an invitation to see ourselves more clearly and to choose, again and again, toward connection.
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
+We trust in the human capacity to transform, to listen, and to love. We trust that liberation is possible when we practice it together.
 
-[homepage]: https://www.contributor-covenant.org
+---
 
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
+*This covenant is inspired by the Contributor Covenant, the principles of Nonviolent Communication, frameworks of liberation and power-consciousness, and the wisdom traditions that teach us to see all beings as interconnected expressions of a shared wholeness.*
