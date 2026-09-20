@@ -1,99 +1,96 @@
-# A Covenant for Conscious Community
+# A Covenant for This Community
 
 ## Our Aspiration
 
-We gather as members, contributors, and companions on a shared journey. We commit to creating spaces where all beings—regardless of age, body, (dis)ability, ethnicity, gender identity, experience, background, or identity—can show up authentically and be welcomed.
+We're building this together. We want this to be a place where everyone—regardless of age, body, (dis)ability, ethnicity, gender identity, experience, or background—can show up and contribute meaningfully. 
 
-We recognize that we are interconnected. Our words and actions ripple outward, shaping the ecosystem we share. We aspire to contribute to a community rooted in:
+We recognize that we're interconnected: what we say and do affects the community we're creating. We're committed to:
 
-* **Genuine connection**—seeing and honoring the humanity in one another
-* **Collective healing**—understanding that harm often stems from unmet needs and unexamined pain
-* **Liberation**—dismantling systems and patterns that silence, diminish, or exclude
-* **Wisdom**—learning from mistakes and each other with humility and curiosity
-* **Care**—tending to the wellbeing of the whole, not just individuals
+* **Genuine connection**—seeing each other as real people
+* **Collective healing**—understanding that conflict usually comes from unmet needs, not malice
+* **Liberation**—pushing back against patterns that exclude or silence people
+* **Learning from mistakes**—taking responsibility and doing better
+* **Care**—thinking about what's good for everyone, not just ourselves
 
 ## What We Cultivate
 
 In this space, we nurture:
 
-* **Presence and empathy**—showing up with genuine care and seeking to understand others' inner worlds
-* **Honest expression**—speaking our truth while remaining open to being moved by others' truth
-* **Differentiated perspectives**—recognizing that our varied experiences are gifts, not obstacles
-* **Collaborative repair**—when we cause harm, we take responsibility, listen, and work toward healing
-* **Accountability rooted in love**—holding ourselves and each other to our shared values because we care about the community
-* **Systemic awareness**—noticing how power, privilege, and inherited patterns shape our interactions
-* **Spaciousness for growth**—trusting that we are all becoming, and that mistakes are invitations to learn
+* **Presence and empathy**—showing up with genuine care and seeking to understand others' perspectives
+* **Honest expression**—speaking our truth while remaining open to what others are saying
+* **Differentiated perspectives**—recognizing that our varied experiences make us stronger
+* **Collaborative repair**—when we cause harm, we take responsibility, listen, and work toward fixing it
+* **Accountability**—holding ourselves and each other to our shared values because we care
+* **Systemic awareness**—noticing how power and privilege shape our interactions
+* **Space for growth**—trusting that we're all learning, and mistakes are part of that
 
 ## What Creates Separation
 
-We gently recognize that certain patterns create distance, diminish trust, and cause suffering:
+We recognize that certain patterns break trust and cause real harm:
 
-* **Objectification**—treating anyone as less than fully human or using another's body/identity as a means to an end
-* **Dismissal**—attacking ideas or people, rather than engaging with curiosity; dismissing someone's reality or experience
-* **Intrusion into privacy**—sharing what was entrusted to us privately without consent; violating boundaries
-* **Coercion and control**—using power to silence, exclude, or dominate; abuse of any kind
-* **Patterns that harm**—behavior that reflects unexamined privilege, unconscious biases, or disconnection from the impact we have on others
+* **Objectification**—treating anyone as less than fully human or using someone's identity as a means to an end
+* **Dismissal**—attacking people instead of engaging with ideas; dismissing someone's experience
+* **Invading privacy**—sharing what was told to you in confidence without consent; violating boundaries
+* **Coercion and control**—using power to silence, exclude, or dominate; any form of abuse
+* **Harmful patterns**—behavior that reflects unexamined privilege, unconscious bias, or disconnection from our impact on others
 
-When these patterns arise, we pause and ask: *What need is going unmet? What fear or wound is driving this? How can we respond with both firmness and compassion?*
+When these patterns show up, we pause and ask: *What's driving this? What need isn't being met? What can we learn here?*
 
 ## Our Shared Responsibility
 
-All of us hold the responsibility to steward this space. This includes:
+Everyone plays a role in stewarding this space:
 
-* **Community members**: noticing when separation is happening, speaking up with compassion, and taking accountability for our own impact
-* **Maintainers and leaders**: creating structures that prevent harm before it happens; responding to harm with wisdom, fairness, and a genuine commitment to both accountability and redemption
+* **Community members**: notice when things are breaking down, speak up with honesty, and take responsibility for your impact
+* **Maintainers and leaders**: create systems that prevent harm; respond to harm with fairness and a genuine commitment to accountability and learning
 
-We recognize that those with more power in the community bear extra responsibility to use that power in service of liberation and healing.
+Those with more power in the community have extra responsibility to use it wisely.
 
 ## Responding to Harm
 
-When someone's behavior causes suffering in our community, we approach it as an opportunity for learning and repair—not punishment for its own sake.
+When someone's behavior causes harm, we treat it as a chance to learn and repair—not as justification for punishment.
 
 **Our process:**
 
-1. **Awareness** – A community member or leader notices behavior that causes harm or distress
+1. **Awareness** – Someone notices behavior that's causing harm or distress
 
-2. **Dialogue** – We engage in honest conversation, seeking to understand:
+2. **Dialogue** – We have honest conversations to understand:
    - What happened?
    - What impact did it have?
-   - What needs or fears were at play?
-   - What did the person who caused harm not understand or notice?
+   - What was someone not seeing or understanding?
+   - What needs were at play?
 
-3. **Repair** – The person who caused harm works to:
-   - Genuinely understand the impact on others
-   - Take responsibility without defensiveness
-   - Make amends where possible
-   - Recommit to the community's values
+3. **Repair** – The person who caused harm:
+   - Takes real responsibility for the impact
+   - Listens without defensiveness
+   - Makes things right where they can
+   - Recommits to the community's values
 
-4. **Integration** – We integrate the learning into how we move forward together, adjusting structures if needed
+4. **Integration** – We learn from it and adjust how we work together
 
-5. **Boundaries** – If someone is repeatedly unwilling to engage in this process, or if harm is ongoing or severe, we may need to create distance (temporary or permanent) to protect the community. Even here, we act with as much clarity and compassion as we can offer.
+5. **Boundaries** – If someone won't engage in this process, or if harm continues, we may need to create distance (temporary or permanent) to protect the community. We do this as clearly and fairly as we can.
 
-## Scope and Witness
+## Scope
 
-This covenant applies wherever our community gathers—in code reviews, issues, discussions, and all spaces bearing our name or values. It also applies when any of us is representing this community publicly.
+This covenant applies in all our community spaces—code reviews, issues, discussions, and everywhere we gather under our name. It applies when any of us represents the community publicly too.
 
-We recognize that harm can be subtle or overt, individual or systemic. We commit to noticing both.
+We're watching for both obvious and subtle forms of harm, individual and systemic.
 
-## Reporting and Support
+## Reporting
 
-If you experience harm or witness patterns that concern you, you can report them to our community leaders at https://forms.gle/ngyEBuHGSFcRiYEWA.
+If you experience harm or see something concerning, report it to community leaders at https://forms.gle/ngyEBuHGSFcRiYEWA.
 
 We commit to:
-* Receiving reports with genuine care and without defensiveness
-* Investigating promptly and thoroughly
-* Centering the safety and dignity of those most affected
-* Maintaining confidentiality and protecting reporters from retaliation
-* Moving toward repair and healing, not punishment
+* Taking reports seriously and with genuine care
+* Investigating promptly
+* Protecting your safety and privacy
+* Working toward repair and learning, not just punishment
 
-## A Final Reflection
+## A Final Word
 
-We know that none of us are perfect. We all carry conditioning, wounds, and blind spots. We are all doing the best we can with the awareness we have. 
+None of us are perfect. We all have blind spots. We're all doing our best with what we know.
 
-This covenant is not a weapon to wield against one another. It is a mirror we hold up together—an invitation to see ourselves more clearly and to choose, again and again, toward connection.
-
-We trust in the human capacity to transform, to listen, and to love. We trust that liberation is possible when we practice it together.
+This covenant isn't a weapon. It's a shared agreement to keep checking in with ourselves and each other about whether we're building the community we actually want to be part of.
 
 ---
 
-*This covenant is inspired by the Contributor Covenant, the principles of Nonviolent Communication, frameworks of liberation and power-consciousness, and the wisdom traditions that teach us to see all beings as interconnected expressions of a shared wholeness.*
+*Inspired by the Contributor Covenant, Nonviolent Communication, frameworks of liberation, and wisdom traditions that teach us to see each other clearly.*
